@@ -2,7 +2,8 @@
 
 This project uses **AutoML** (PyCaret) to predict customer churn on the Telco Customer Churn dataset from Kaggle. The goal is to identify customers likely to leave the service, enabling businesses to implement retention strategies.
 
-![Uploading FINAL_PROJECT.png…]()
+
+![FINAL_PROJECT](https://github.com/user-attachments/assets/e5610af7-caf3-4b02-9a83-5fa29f1330e1)
 
 
 ## Table of Contents
