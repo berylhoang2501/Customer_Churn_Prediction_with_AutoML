@@ -62,6 +62,8 @@ Recall: 0.855
 
 F1 Score: 0.849 (after tuning)
 
+<img width="265" alt="Ảnh màn hình 2025-05-16 lúc 15 18 29" src="https://github.com/user-attachments/assets/025f4ed0-3169-4956-81b1-69d4629d057d" />
+
 - F1 Score Comparison:
 
 <img width="610" alt="Ảnh màn hình 2025-05-16 lúc 15 15 40" src="https://github.com/user-attachments/assets/05e8e9be-ca2b-4c96-934f-d500ece03c58" />
