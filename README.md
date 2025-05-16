@@ -52,7 +52,7 @@ jupyter notebook notebooks/Customer_Churn_Prediction_with_AutoML.ipynb
 
 ## Results
 
-Model Performance (LightGBM on test set):
+- Model Performance (LightGBM on test set):
 
 Accuracy: 0.848
 
@@ -62,8 +62,19 @@ Recall: 0.855
 
 F1 Score: 0.849 (after tuning)
 
-F1 Score Comparison:
+- F1 Score Comparison:
+
+<img width="610" alt="Ảnh màn hình 2025-05-16 lúc 15 15 40" src="https://github.com/user-attachments/assets/05e8e9be-ca2b-4c96-934f-d500ece03c58" />
 
 Tuned model: 0.8473 (average F1 Score).
+
 Initial model: 0.8451 (average F1 Score).
+
 Observation: The tuned model slightly outperforms the initial model based on F1 Score, indicating improved balance between precision and recall.
+
+## Key Findings:
+
+- Financial Metrics: MonthlyCharges and TotalCharges are the most influential features, indicating pricing strategies significantly impact churn. Adjusting pricing or offering discounts for high-cost customers could reduce churn.
+
+- Tenure: Longer customer tenure reduces churn likelihood. Loyalty programs or enhanced service value can extend customer retention.
+Actionable Insights: Focus on financial incentives and loyalty programs to retain customers.
